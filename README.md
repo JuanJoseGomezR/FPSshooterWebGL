@@ -1,7 +1,7 @@
 # FPS
 
 This an First Person Shooter game, developed in unity for WebGl.
-It is a simple game where the player is a museum environment to make a robbery.
+It is a simple game where the player is in a museum environment to steal a big diamond killing the guards and hacking doors.
 
 
 
