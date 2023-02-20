@@ -1,3 +1,7 @@
+# !!!!! DISCLAIMER !!!!!
+
+THIS A TEST BUILD, THE GAME IS STILL IN DEVELOPMENT, IT WILL BE FINISHED SOON, THANK YOU!
+
 # FPS
 
 This an First Person Shooter game, developed in unity for WebGl.
